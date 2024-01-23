@@ -3,7 +3,7 @@ Projeto feito para praticar estruturação de sites institucionais através do H
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/CapaLightTheme.png" width="260">&emsp;<img src="/results/CapaDarkTheme.png" width="260">&emsp;<img src="/results/ResultLightTheme.png" width="260">
+<img src="/printsGitHub/SpaceXClone1.png" width="260">&emsp;<img src="/printsGitHub/SpaceXClone2.png" width="260">&emsp;<img src="/printsGitHub/SpaceXClone3.png" width="260">
 
 ## Tecnologias
 * HTML
