@@ -3,11 +3,11 @@ Projeto feito para praticar estruturação de sites institucionais através do H
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/printsGitHub/SpaceXClone1.png" width="520">
+<img src="/printsGitHub/SpaceXClone1.png" width="1080">
 &emsp;
-<img src="/printsGitHub/SpaceXClone2.png" width="520">
+<img src="/printsGitHub/SpaceXClone2.png" width="1080">
 &emsp;
-<img src="/printsGitHub/SpaceXClone3.png" width="520">
+<img src="/printsGitHub/SpaceXClone3.png" width="1080">
 
 ## Tecnologias
 * HTML
